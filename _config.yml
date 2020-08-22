@@ -38,6 +38,11 @@ conference:
       given: Neil D.
       institute: The University of Sheffield
       url: http://inverseprobability.com
+  sponsors:
+  - name: PASCAL Network of Excellence
+    url: http://www.pascal-network.org
+  - name: Machine Learning Group, University of Sheffield
+    url: http://www.dcs.shef.ac.uk/ml
 analytics:
   google:
     tracking_id: UA-62991754-1

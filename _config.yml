@@ -5,7 +5,7 @@ author:
   email: 
 description: > # this means to ignore newlines until "baseurl:"
   The Gaussian Process Round Table was the first in a series of meetings around Gaussian processes.
-baseurl: "gprt/" # the subpath of your site, e.g. /blog/
+baseurl: "/gprt" # the subpath of your site, e.g. /blog/
 plugins:
 - jekyll-feed
 - jekyll-seo-tag

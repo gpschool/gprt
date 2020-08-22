@@ -1,7 +1,7 @@
 # Site settings
 title: Gaussian Process Round Table
 author:
-  name: Neil Lawrence
+  name: Neil D. Lawrence
   email: 
 description: > # this means to ignore newlines until "baseurl:"
   The Gaussian Process Round Table was the first in a series of meetings around Gaussian processes.
@@ -15,7 +15,7 @@ style: gpss
 
 url: http://gpss.cc # the base hostname & protocol for your site
 twitter_username: datascienceshef
-github_username:  SheffieldML
+github_username:  gpschool
 facebook_page: gaussianprocesssummerschool
 
 ghub:

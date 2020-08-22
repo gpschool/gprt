@@ -11,9 +11,9 @@ plugins:
 - jekyll-seo-tag
 - jekyll-remote-theme
 remote_theme: lawrennd/proceedings
+style: gpss
 
-logo: "gpss_logo.svg"
-url: "http://gpss.cc" # the base hostname & protocol for your site
+url: http://gpss.cc # the base hostname & protocol for your site
 twitter_username: datascienceshef
 github_username:  SheffieldML
 facebook_page: gaussianprocesssummerschool
@@ -22,7 +22,22 @@ ghub:
   edit: true
   repository: gprt
 
-
+conference:
+  logo: gpss-logo.svg
+  name: Gaussian Process Round Table
+  short_name: GPRT
+  full_name: Gaussian Process Round Table
+  venue: The University of Sheffield
+  dates:
+  - 2005-06-09
+  - 2005-06-10
+  chairs:
+  - type: Organizer
+    people:
+    - family: Lawrence
+      given: Neil D.
+      institute: The University of Sheffield
+      url: http://inverseprobability.com
 analytics:
   google:
     tracking_id: UA-62991754-1

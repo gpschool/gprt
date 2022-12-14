@@ -13,7 +13,7 @@ plugins:
 remote_theme: gpschool/jekyll-theme
 style: gpss
 
-url: http://gpss.cc # the base hostname & protocol for your site
+url: https://gpss.cc # the base hostname & protocol for your site
 twitter_username: datascienceshef
 github_username:  gpschool
 facebook_page: gaussianprocesssummerschool
@@ -38,12 +38,12 @@ conference:
     - family: Lawrence
       given: Neil D.
       institute: The University of Sheffield
-      url: http://inverseprobability.com
+      url: https://inverseprobability.com
   sponsors:
   - name: PASCAL Network of Excellence
     url: https://www.k4all.org/project/25/
   - name: Machine Learning Group, University of Sheffield
-    url: http://www.dcs.shef.ac.uk/ml
+    url: https://www.dcs.shef.ac.uk/ml
 analytics:
   google:
     tracking_id: UA-62991754-1
